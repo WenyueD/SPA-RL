@@ -1,0 +1,20 @@
+# Separate Python 3.10/3.11 Linux environment for Qwen3; leave legacy env intact.
+torch>=2.6,<2.8
+transformers==4.51.3
+peft==0.15.2
+accelerate==1.6.0
+safetensors>=0.5
+# WebShop environment dependencies, plus the external search index/Java setup.
+gym==0.23.1
+numpy==1.26.4
+beautifulsoup4
+flask
+requests
+spacy==3.7.5
+pyserini==0.22.1
+rich
+cleantext
+rank_bm25
+thefuzz
+scikit-learn
+selenium>=4.2
