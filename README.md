@@ -1,11 +1,6 @@
 <h1 align="center">SPA-RL-Agent</h1>
 
 本地新增 **Qwen3-8B / Step-RL** 改造入口，包含原生模板 SFT、进度 MLP、在线 PPO、规则与可选 Qwen API 动作校验及评测统计。安装、数据准备与训练命令见 [step_rl/README.md](step_rl/README.md)。
-<p align="center">
-  <a href="https://arxiv.org/abs/2505.20732"><img src="https://img.shields.io/badge/arXiv-arXiv%20Preprint-B31B1B?style=flat&logo=arxiv&logoColor=white" alt="arXiv Paper"></a>
-  &nbsp;
-  <a href="https://github.com/WangHanLinHenry/SPA-RL-Agent"><img src="https://img.shields.io/badge/Homepage-Project%20Page-brightgreen?style=flat&logo=github" alt="Homepage"></a>
-</p>
 
 
 <p align="center">
