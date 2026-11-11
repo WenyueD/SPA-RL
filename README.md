@@ -21,9 +21,6 @@ This paper introduces **Stepwise Progress Attribution (SPA)**, a novel reward re
 
 
 
-## 🎉News
-- [2025.05.28] 🔥 Release our paper on arXiv. See [here](https://arxiv.org/abs/2505.20732).
-- [2025.05.26] 🚀 SPA-RL-Agent Repo launched!
 
 ## 📝Contents
 
