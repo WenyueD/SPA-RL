@@ -153,8 +153,6 @@ bash eval/llama3_2_3b_eval_webshop.sh
 bash eval/llama3_2_3b_eval_virtualhome.sh
 ```
 
-### Running Baselines
-TODO
 
 
 
