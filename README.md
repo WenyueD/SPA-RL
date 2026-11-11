@@ -7,7 +7,6 @@
   <a href="https://github.com/WangHanLinHenry/SPA-RL-Agent"><img src="https://img.shields.io/badge/Homepage-Project%20Page-brightgreen?style=flat&logo=github" alt="Homepage"></a>
 </p>
 
-The repository contains the codes for our paper "[SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://arxiv.org/abs/2505.20732)"
 
 <p align="center">
   <img src="./assets/spa_rl_framework.png" width="95%">
