@@ -156,10 +156,7 @@ bash eval/llama3_2_3b_eval_virtualhome.sh
 ### Running Baselines
 TODO
 
-## 🌹 Acknowledgement
-Our code implementation is based on [ETO](https://github.com/Yifan-Song793/ETO) and [steptool](https://github.com/yuyq18/steptool). We thank them for their great work. 
 
-Also very thankful for my wonderful co-authors: [Chak Tou Leong](https://cooperleong00.github.io/), [Jiashuo Wang](https://www4.comp.polyu.edu.hk/~csjwang/), [Jian Wang](https://iwangjian.github.io/), [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
 
 
 
